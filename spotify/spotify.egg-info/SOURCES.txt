@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+spotify/__init__.py
+spotify/assets.py
+spotify.egg-info/PKG-INFO
+spotify.egg-info/SOURCES.txt
+spotify.egg-info/dependency_links.txt
+spotify.egg-info/requires.txt
+spotify.egg-info/top_level.txt
